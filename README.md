@@ -1,5 +1,6 @@
 # sudoku-solver
 AI sudoku puzzle solver
+
 This program reads in a sudoku puzzle (as formatted in the template file),determines the puzzle answer (if there is one), validates the answer according to the rules of sudoku, and then outputs the solved board in a file appended Solution (or NoSolution for an unsolvable puzzle.
 
 Currently, the program only solves easy level sudoku problems. The ranking for sudoku problems is based off of the algorithms/logic required to solve the puzzle. Easy puzzles demand the lowest level of logic. 
