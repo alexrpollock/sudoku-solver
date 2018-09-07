@@ -1,5 +1,5 @@
 # sudoku-solver
-AI sudoku puzzle solver
+sudoku puzzle solver
 
 This program reads in a sudoku puzzle (as formatted in the template file),determines the puzzle answer (if there is one), validates the answer according to the rules of sudoku, and then outputs the solved board in a file appended Solution (or NoSolution for an unsolvable puzzle.
 
